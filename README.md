@@ -10,4 +10,8 @@ Hummm
 "Modif from dev" 
 
 20/07/2022
-"recand fuz" 
+
+récupérer et fusionner
+
+"recand fuz"
+
